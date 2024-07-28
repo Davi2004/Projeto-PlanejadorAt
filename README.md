@@ -24,11 +24,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O TimeWiz é um website criado para ser um aliado perfeito na gestão do tempo e na organização das suas tarefas diárias! Sendo projetado para ajudar você a maximizar sua produtividade e manter-se no controle de sua agenda. Com uma interface intuitiva e recursos personalizados, você pode facilmente criar tarefas e monitorar o seu progresso durante o dia.
+O <strong>TimeWiz</strong> é um website criado para ser um aliado perfeito na gestão do tempo e na organização das suas tarefas diárias! Sendo projetado para ajudar você a maximizar sua produtividade e manter-se no controle de sua agenda. Com uma interface intuitiva e recursos personalizados, você pode facilmente criar tarefas e monitorar o seu progresso durante o dia.
 
-Quer esteja organizando suas responsabilidades profissionais, gerenciando tarefas domésticas ou planejando momentos de lazer, o TimeWiz oferece ferramentas simples, porém, necessárias para transformar seu dia a dia em uma experiência mais organizada e eficiente. 
+Quer esteja organizando suas responsabilidades profissionais, gerenciando tarefas domésticas ou planejando momentos de lazer, o <strong>TimeWiz</strong> oferece ferramentas simples, porém, necessárias para transformar seu dia a dia em uma experiência mais organizada e eficiente. 
 
-Junte-se a nós e descubra o poder de uma rotina bem planejada e como ela pode transformar seu dia a dia numa rotina mais equilibrada e produtiva. Comece agora mesmo a usar o TimeWix e dê o primeiro passo para uma vida mais organizada e tranquila, tendo tudo sob controle!
+Junte-se a nós e descubra o poder de uma rotina bem planejada e como ela pode transformar seu dia a dia numa rotina mais equilibrada e produtiva. Comece agora mesmo a usar o <strong>TimeWiz</strong> e dê o primeiro passo para uma vida mais organizada e tranquila, tendo tudo sob controle!
 
 - [Acesse o projeto finalizado, online](https://projeto-timewiz.vercel.app)
 
